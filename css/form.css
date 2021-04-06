@@ -32,17 +32,6 @@ body {
   text-indent: 6px;
 }
 
-h3 {
-  text-align: center;
-  margin-top: 10px;
-}
-
-p {
-  text-align: center;
-  font-size: 15px;
-  margin: 7px 0;
-}
-
 .nome {
   height: 8%;
   width: 80%;
@@ -152,16 +141,6 @@ samp {
     margin-left: 20px;
     text-align: left;
     font-size: 22px;
-  }
-  h3 {
-    text-align: center;
-    margin-top: 10px;
-    font-size: 24px;
-  }
-  p {
-    text-align: center;
-    font-size: 17px;
-    margin: 7px 0;
   }
   .nome {
     height: 8%;
