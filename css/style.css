@@ -35,6 +35,7 @@ body {
   border-bottom: 2px solid white;
   padding-left: 8px;
   outline: 0;
+  color: white;
 }
 
 .senha {
@@ -46,6 +47,7 @@ body {
   border-bottom: 2px solid white;
   padding-left: 8px;
   outline: 0;
+  color: white;
 }
 .botao {
   height: 35px;
